@@ -1,0 +1,17 @@
+{
+  "name": "craco-less-compiler",
+  "version": "1.1.0",
+  "description": "Less to CSS made easy with our Craco plugin. Optimize your stylesheets and boost your front-end development workflow today.",
+  "main": "index.js",
+  "author": "@azwedo",
+  "license": "MIT",
+  "repository": "github::Azwedo/craco-less-compiler",
+  "keywords": [
+    "craco",
+    "cra",
+    "less",
+    "less",
+    "create-react-app",
+    "azwedo"
+  ]
+}
